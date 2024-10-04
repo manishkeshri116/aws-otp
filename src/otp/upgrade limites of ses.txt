@@ -1,0 +1,19 @@
+upgrade limites of ses
+upgrade limites of sns
+and add billing montholy use 5$
+
+create one iam user 
+
+give access - AmazonSNSFullAccess, AmazonSESFullAccess,
+AmazonSESFullAccess,
+AmazonS3OutpostsReadOnlyAccess
+
+https://343218194476.signin.aws.amazon.com/console  (login credential)
+iam user - username - classento-be-dev
+password - MacBook@123
+
+
+
+
+
+
